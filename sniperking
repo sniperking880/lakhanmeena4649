@@ -1,5 +1,0 @@
-$ pkg install -y git python nano
-$ git clone https://github.com/lakhan/termux-theme
-$ cd termux-theme
-$ chmod +x install.sh
-$ ./install.sh
